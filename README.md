@@ -2,4 +2,4 @@
 ### 小的药来了
 
 [2ch](/2ch/2ch.md)
-[测试]（2ch/AF杉浦.mlt.html)
+[测试]（/2ch/AF杉浦.html)
